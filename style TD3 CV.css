@@ -1,0 +1,34 @@
+body{
+    background-color: khaki;
+}
+h1{
+text-align: center;
+background-color: cadetblue;
+font-size: x-large;
+border-radius: 15px;
+
+}
+.Adresse{
+    background-color: cadetblue;
+    border-radius: 15px;
+}
+.CV{
+    background-color: cadetblue;
+    border-radius: 15px;
+}
+.experiences{
+    text-align: center;
+}
+.différentes{
+    text-align: center;
+}
+.topnav {
+    overflow: hidden;
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px}
